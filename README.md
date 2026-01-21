@@ -30,3 +30,13 @@
     }
   }
 }
+
+
+
+jstate explain diff main prod
+>> 
+{
+  requestId: 1769017617376,
+  explanation: [ 'Key "version" was added with value "2"' ]
+}
+
